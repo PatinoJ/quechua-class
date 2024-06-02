@@ -1,0 +1,117 @@
+---
+title: "Review of the verb theme"
+institute: "Quechua classes"
+date: "`r Sys.Date()`"
+output:
+  xaringan::moon_reader:
+    css: ["style.css"]
+    lib_dir: libs
+    nature:
+      highlightStyle: github
+      highlightLines: true
+      countIncrementalSlides: false
+---
+
+background-image: url('img/Presentación1.jpg')
+
+---
+# Quechua Verbs
+
+```{r xaringan-editable,echo=FALSE}
+xaringanExtra::use_editable()
+```
+
+
+Main verbs:
+  - To dance = Tusuy<br>
+  
+  .can-edit[Examples:]
+  
+  - To know = Riqsiy <br>
+
+  .can-edit[Examples:]
+  
+  - To look = Qaway <br>
+
+  .can-edit[Examples:]
+
+---
+
+- To work = Llankay <br>
+
+  .can-edit[Examples:]
+  
+- To lexit = Lluqsiy <br>
+
+  .can-edit[Examples:]
+  
+- To speak = Rimay <br>
+
+  .can-edit[Examples:]
+  
+- To want = Munay <br>
+
+  .can-edit[Examples:]
+  
+- To eat = Mijuy <br>
+
+  .can-edit[Examples:]
+  
+- To sing = Takiy <br>
+
+  .can-edit[Examples:]
+
+---
+
+- To receive = Chashkiy <br>
+
+  .can-edit[Examples:]
+  
+- To write = Qelqay <br>
+
+  .can-edit[Examples:]
+  
+- To give = Quy <br>
+
+  .can-edit[Examples:]
+  
+- To Search = Mashkay <br>
+
+  .can-edit[Examples:]
+
+---
+
+- To lose = Chinkachiy <br>
+
+  .can-edit[Examples:]
+  
+- To forget = Qunqay <br>
+
+  .can-edit[Examples:]
+
+- To help = Yanapay <br>
+
+  .can-edit[Examples:]
+  
+- To learn = Yachay <br>
+
+  .can-edit[Examples:]
+
+---
+
+- To play = Pukllay <br>
+
+  .can-edit[Examples:]
+  
+- To wait = Suyay <br>
+
+  .can-edit[Examples:]
+  
+- To laugh = Asiy <br>
+
+  .can-edit[Examples:]
+  
+- To run = Phaway <br>
+
+  .can-edit[Examples:]
+
